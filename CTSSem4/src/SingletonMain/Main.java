@@ -1,9 +1,5 @@
-package main;
+package SingletonMain;
 
-import Factory.Familie.Autobuz;
-import Factory.Familie.Factory;
-import Factory.Familie.MijlocTransport;
-import Factory.Familie.TipTransport;
 import Singleton.Singleton;
 
 public class Main {
