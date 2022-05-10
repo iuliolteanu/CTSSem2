@@ -1,4 +1,4 @@
-package SingletonMain;
+package PrototypeMain;
 
 import Prototype.Autobuz;
 import Prototype.MijlocTransport;

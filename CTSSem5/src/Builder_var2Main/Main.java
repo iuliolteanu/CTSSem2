@@ -8,8 +8,8 @@ public class Main {
         AutobuzBuilder autobuzBuilder = new AutobuzBuilder();
         autobuzBuilder.setAreOprire(false);
         autobuzBuilder.setNrLinie(25);
-
         AutobuzLinie autobuz = autobuzBuilder.build();
+
         System.out.println(autobuz.toString());
 
     }
